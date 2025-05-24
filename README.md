@@ -19,12 +19,6 @@ This project simulates a virtual oscilloscope built in **LabVIEW 2021**, designe
 3. Select waveform type (sine, square, or triangle) and observe the signal.  
 4. Use cursors for detailed analysis and extract signal data as needed.  
 
-## **Skills Demonstrated**  
-- Signal Processing  
-- Virtual Instrumentation  
-- LabVIEW Programming  
-- Data Visualization  
-
 ## **Future Enhancements**  
 - Add FFT analysis for frequency-domain visualization.  
 - Implement data logging to save and replay signals.  
